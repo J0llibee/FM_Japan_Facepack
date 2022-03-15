@@ -21,5 +21,5 @@ If any portraits are missing／wrong, feel free to comment:)
 https://github.com/J0llibee/FM_Japan_Facepack/issues 
 
 Credit：
-belajariman
-Robbles Quin ®™
+#belajariman
+#Robbles Quin ®™
