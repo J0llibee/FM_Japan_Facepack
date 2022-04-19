@@ -13,14 +13,14 @@ How to install:
 
 Roadmap:
 
-－Portraits of J1 players (done)
-－Portraits of all players in Japan
+Portraits of J1 players (done)  
+Portraits of all players in Japan  
 Portrait of all staff in Japan
 
 If any portraits are missing／wrong, feel free to comment:)
 https://github.com/J0llibee/FM_Japan_Facepack/issues 
 
 Credit：
-#belajariman
-#Robbles Quin ®™
+#belajariman  
+#Robbles Quin ®™  
 ゲキサカ https://web.gekisaka.jp/
